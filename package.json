@@ -19,9 +19,9 @@
         "verushash",
         "x16rv2"
     ],
-    "homepage": "https://github.com/AoD-Technologies/cryptocurrency-pool-server",
+    "homepage": "https://github.com/peruginia/cryptocurrency-pool-server",
     "bugs": {
-        "url": "https://github.com/AoD-Technologies/cryptocurrency-pool-server/issues"
+        "url": "https://github.com/peruginia/cryptocurrency-pool-server/issues"
     },
     "license": "GPL-3.0",
     "author": "Jonathan Horowitz",
@@ -34,7 +34,7 @@
     "main": "init.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/AoD-Technologies/cryptocurrency-pool-server.git"
+        "url": "https://github.com/peruginia/cryptocurrency-pool-server.git"
     },
     "dependencies": {
         "amp-toolbox-cors": "^1.2.0-alpha.2",
