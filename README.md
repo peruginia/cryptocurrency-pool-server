@@ -129,7 +129,7 @@ a good pool operator. For starters be sure to read:
 Clone the repository and run `npm install` for all the dependencies to be installed:
 
 ```bash
-git clone https://github.com/AoD-Technologies/cryptocurrency-pool-server.git
+git clone https://github.com/peruginia/cryptocurrency-pool-server.git
 cd cryptocurrency-pool-server
 npm install
 ```
